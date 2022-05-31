@@ -16,9 +16,10 @@ body
     font-size: 25px;
 }
 #cabecera{
-    text-align: left;
+    text-align: right;
+    font-size: xx-large;
     background-color: #33a;
-    color: #DDD;
+    color: #FFF;
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
