@@ -23,3 +23,8 @@ body
     padding: 0.5em;
     font-weight: bold;
 }
+footer{
+    background-color: #33a;
+    color: white;
+    padding: 1em;
+}
